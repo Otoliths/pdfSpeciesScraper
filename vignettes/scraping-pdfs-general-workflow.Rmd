@@ -26,9 +26,9 @@ Basically there are three steps, each of which are described in detail below:
 - Getting files ready for porocessing.
 - Processing the files and comparing against the dictionary
 
+### Before you Start
+
 ## Creating a Dictionary File
-
-
 
 ## Getting files ready for processing
 
@@ -41,4 +41,11 @@ Basically there are three steps, each of which are described in detail below:
 
 ### What to do when things don't work
 
+
+## Viewing Results
+
+## Coming Soon
+- SQL views for pdf files, taxonomy, and reference geolocations so that data are dynamically updated as they are edited/added in Data Store.
+- Desktop application to QC the hit data.
+- Additional R functions to identify potential outlier hits based on observation data from external repositories such as eBird, iNaturalist, iDigBio, and gBif.
 
