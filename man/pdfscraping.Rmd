@@ -3,6 +3,10 @@ title: "pdfScraping"
 author: "Joe DeVivo"
 date: "July 19, 2018"
 output: html_document
+vignette: >
+  %\VignetteIndexEntry{Basic Scraping Workflow}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
 ---
 
 ```{r setup, include=FALSE}

@@ -1,6 +1,10 @@
 Package: pdfSpeciesScraper
 Type: Package
+<<<<<<< HEAD
 Title: Extraction of Species Names from Text in NPS/Data Store Documents
+=======
+Title: Extraction of Species Names from Data Store PDF Documents
+>>>>>>> 3fceef894f72c6602812a2b21279c7dea5005185
 Version: 0.1.0
 Author: Joe DeVivo
 Maintainer: Joe DeVivo <joe_devivo@nps.gov>
@@ -9,3 +13,16 @@ Description: More about what it does (maybe more than one line)
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+<<<<<<< HEAD
+=======
+Imports: 
+    quanteda,
+    RODBC,
+    readtext,
+    tm
+RoxygenNote: 6.1.0
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+>>>>>>> 3fceef894f72c6602812a2b21279c7dea5005185
